@@ -1,0 +1,2657 @@
+
+------------------------
+2019.05.26 12:57:51
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 12:58:49
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:49
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:58:52
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:52
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:58:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:58:59
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:59
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:07
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:07
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:16
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:16
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:19
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:19
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:50
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 27
+
+------------------------
+
+------------------------
+2019.05.26 12:59:51
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getgoods()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 27
+
+------------------------
+
+------------------------
+2019.05.26 13:57:44
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 14:00:28
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:00:30
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:07:51
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:07:52
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:07:54
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:23
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:24
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getgoods()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:31
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:33
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:11:38
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:12:02
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:13:36
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:13:38
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:14:38
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 14:14:45
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:14:46
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:14:59
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:09
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:09
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:25
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:26
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:35
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:35
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:42
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:42
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:45
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:45
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:54
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:55
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:57
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:57
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:16:03
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:04
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:16:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:16:32
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:33
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:36
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:59
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:16:59
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:17:02
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:17:02
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:17:08
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:17:09
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:17:09
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:17:24
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:17:24
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:21
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 14:24:36
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:36
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:39
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:39
+Titte: DEBUG
+Message: Array
+(
+    [id] => 114
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:41
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:41
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:44
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:44
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:48
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:48
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:25:04
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:25:04
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:26:12
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:26:12
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:42:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:42:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:42:16
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:42:16
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:45:41
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:45:53
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:47:58
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:47:58
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:48:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:48:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:48:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:48:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:56:44
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:56:47
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:56:49
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:56:56
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:00
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:06
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:08
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:10
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:12
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:13
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:15
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:20
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:23
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:28
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:32
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:35
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:39
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:06
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:09
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:13
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:40
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:43
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:49
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:07
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:07
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:12
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:28
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:33
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:38
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:40
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:43
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:46
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:04:03
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:04:06
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:04:12
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:07:30
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:07:30
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:07:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:07:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:08:37
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:08:37
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:09:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:09:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:09:57
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:09:57
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:10:00
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:10:00
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:11:42
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:11:42
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:11:50
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:11:50
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:11:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:11:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:14:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:14:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:15:23
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:15:23
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:28:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:28:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:36:39
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:36:39
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:35
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:35
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:41
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:41
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:46
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:46
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:49
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:49
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:52
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:52
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:55:55
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:55:55
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:57:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:57:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:01:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:01:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:02:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:02:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:04:45
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:06:52
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:53
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:54
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:56
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 1
+            [status] => 1
+            [name] => Кросовки
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:57
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:57
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:58
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:09:37
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:10:14
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:10:14
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:10:41
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:10:49
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:10:49
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:22
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:11:29
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:29
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:33
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:33
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:36
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:36
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:40
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:40
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:12:13
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:12:30
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:12:40
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:12:40
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:13:02
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:13:02
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:13:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:13:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:14:00
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:14:00
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:14:12
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:14:12
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:01
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:01
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:04
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:04
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:13
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:13
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:55
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:55
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:18:21
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:20:33
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:20:33
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:20:39
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:20:39
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:23:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:23:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:39:19
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to a member function prepare() on null
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/db.class.php
+line 56
+
+------------------------
+
+------------------------
+2019.05.26 16:45:59
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to a member function prepare() on null
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/db.class.php
+line 56
+
+------------------------
+
+------------------------
+2019.05.26 16:46:03
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to a member function prepare() on null
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/db.class.php
+line 56
+
+------------------------
+
+------------------------
+2019.05.26 16:58:43
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 16:58:45
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 16:58:46
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 16:58:48
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 17:01:08
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 54
+
+------------------------
+
+------------------------
+2019.05.26 17:01:10
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 54
+
+------------------------
+
+------------------------
+2019.05.26 17:13:59
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:13:59
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:06
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:06
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:13
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:13
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:14
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:14
+Titte: DEBUG
+Message: Array
+(
+    [id] => 143
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:15
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:15
+Titte: DEBUG
+Message: Array
+(
+    [id] => 139
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 138
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:20
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:20
+Titte: DEBUG
+Message: Array
+(
+    [id] => 136
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:21
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:21
+Titte: DEBUG
+Message: Array
+(
+    [id] => 134
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:22
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:22
+Titte: DEBUG
+Message: Array
+(
+    [id] => 133
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:24
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:24
+Titte: DEBUG
+Message: Array
+(
+    [id] => 129
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:27
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:27
+Titte: DEBUG
+Message: Array
+(
+    [id] => 129
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:28
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:28
+Titte: DEBUG
+Message: Array
+(
+    [id] => 128
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:29
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:29
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:31
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:31
+Titte: DEBUG
+Message: Array
+(
+    [id] => 125
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:32
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:32
+Titte: DEBUG
+Message: Array
+(
+    [id] => 114
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:34
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:34
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:35
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:35
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:36
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:36
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:44
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:44
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:50
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:50
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:57
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:57
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 114
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:07
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:07
+Titte: DEBUG
+Message: Array
+(
+    [id] => 125
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 125
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:23
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:23
+Titte: DEBUG
+Message: Array
+(
+    [id] => 128
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:29
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:29
+Titte: DEBUG
+Message: Array
+(
+    [id] => 129
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:52
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:52
+Titte: DEBUG
+Message: Array
+(
+    [id] => 136
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:58
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:58
+Titte: DEBUG
+Message: Array
+(
+    [id] => 138
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:04
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:04
+Titte: DEBUG
+Message: Array
+(
+    [id] => 139
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 143
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:24
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:24
+Titte: DEBUG
+Message: Array
+(
+    [id] => 136
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:25
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:25
+Titte: DEBUG
+Message: Array
+(
+    [id] => 139
+    [status] => close
+)
+
+------------------------

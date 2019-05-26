@@ -1,0 +1,41 @@
+/* View cart Table */
+.ui-view-cart .table {
+    margin: 20px 0px;
+    /* background: rgba(71, 99, 255, 0.199); */
+}
+
+.ui-view-cart .table tr th {
+    padding: 17px 10px;
+    text-transform: uppercase;
+    background: #f9f9f9;
+    color: #999;
+    text-align: center;
+    
+}
+
+.ui-view-cart .table tr td {
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.ui-view-cart .table tr:hover {
+    background: #6448e028;
+}
+
+/* Data */
+.ui-view-cart .table tr>td {
+    vertical-align: middle;
+    padding: 17px 10px;
+}
+
+.ui-view-cart .table tr>td {
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+}
+
+.ui-view-cart .table img {
+    width: 130px;
+}

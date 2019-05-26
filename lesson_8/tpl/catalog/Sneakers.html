@@ -1,0 +1,26 @@
+<!-- begin: sneakers.tpl -->
+{% for item in data.content_data.catalog %}
+<div class="product-item" id="{{ item.id }}">
+  <div class="product-img product_{{ item.id }}">
+    <a href="/catalog/detailed/{{ item.id }}" target="blank">
+        <img src="/img/catalog_img/{{ item.img }}" alt="Photo{{ item.id }}">
+    </a>
+  </div>
+  <div class="product-list">
+      
+    <h3>{{ item.name }}</h3>
+    <div class="stars-{{ item.assessment }}"></div>
+    <span class="price">₽ {{ item.price }}</span>
+    <div class="actions">
+      <div class="add-to-cart">
+        <a href="/cart/add/{{ item.id }}" class="cart-button">В корзину</a>
+      </div>
+      <div class="add-to-links">
+        <a href="" class="wishlist"></a>
+        <a href="" class="compare"></a>
+      </div>
+      </div>
+    </div>
+</div>
+{% endfor %}
+<!-- end: sneakers.tpl -->

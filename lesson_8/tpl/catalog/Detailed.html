@@ -1,0 +1,68 @@
+{% include 'Head.html' %}
+<link rel="stylesheet" href="/css/Detailed.css">
+<div class="container">
+  <!-- UI X -->
+  <div class="ui-16">
+    <div class="row">
+      <div class="col-md-5 col-sm-6">
+        <!-- UI Nav -->
+        <div class="ui-nav">
+          <!-- Tab Content -->
+          <!-- Big images -->
+          <div class="tab-content">
+            <div class="tab-pane active" id="ui-img-1">
+              <img src="/img/catalog_img/{{ data.content_data.img }}" alt="" class="img-responsive">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-7 col-sm-6">
+        <!-- Ui Details -->
+        <div class="ui-details">
+          <!-- Heading -->
+          <h2>{{ data.content_data.name }}</h2>
+          <!-- Price -->
+          <div class="price red">{{ data.content_data.price }}р.</div>
+          <!-- Р -->
+          <h4>Размеры</h4>
+          <!-- Button group for size -->
+          <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            <label class="btn btn-secondary active" for="28">
+              <input type="radio" name="options" id="option1" autocomplete="off" checked> 28
+            </label>
+            <label class="btn btn-secondary" for="30">
+              <input type="radio" name="options" id="option2" autocomplete="off"> 30
+            </label>
+            <label class="btn btn-secondary" for="32">
+              <input type="radio" name="options" id="option3" autocomplete="off"> 32
+            </label>
+          </div>
+
+          <!-- Quantity selection -->
+          <h4>Выберите кол-во</h4>
+          <select class="form-control">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+
+          <br />
+
+          <!-- Buttons - Add to cart and add to wishlist -->
+          <div>
+            <a href="ui-16.html#" class="btn btn-red btn-lg">Добавить в корзину</a>
+          </div>
+
+          <br />
+        </div>
+      </div>
+
+    </div>
+
+
+  </div><!-- / UI X -->
+</div>
+{% include 'Footer.html' %}

@@ -1,0 +1,32 @@
+{% include 'Head.html' %}
+<div class="container">
+    <div class="container table">
+        <nav class="navbar navbar-expand-sm navbar-light bg-light">
+                <span class="navbar-brand">Категории:</span>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1"
+                aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse form-inline" id="navbar1">
+                <ul class="navbar-nav mr-auto catalogurl">
+                    {% for key, item in data.menu.catalog %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="/catalog/category/{{ item.id_category }}">
+                            <span>{{ item.name }}</span>
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="col-xl-12 col-lg-12 col-md-12 products">
+        <div class="row">
+            {% include 'catalog/Sneakers.html' %}
+        </div>
+    </div>
+</div>
+<button id="show_more" type="button" class="btn btn-primary center btn-info btn-md display_none" value="16"
+    name="16">Подгрузить еще</button>
+{% include 'Footer.html' %}

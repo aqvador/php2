@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>{{ data.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,300,600' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  {% if data.param.css.acc == 'yes' %}
+  <!-- Мои Стили, будут подключены если существуют в каталоге -->
+  <link rel="stylesheet" href="{{ data.param.css.Сonnections }}">
+  {% endif %}
+  <link rel="stylesheet" href="/css/custopm_style.css">
+  <link rel="stylesheet" href="/css/Footer.css">
+  <link rel="stylesheet" href="/css/vendor/sweet-alert.css">
+
+</head>
+
+<body>
+  {% include 'Navbar.html' %}
+  <div class="form">
+
+    <ul class="tab-group">
+      <li id="LoginTab" class="tab active"><a href="#login">Войти</a></li>
+      <li id="SignupinTab" class="tab"><a href="#signup">Регистрироваться</a></li>
+    </ul>
+
+    <div class="tab-content">
+
+
+      <div id="login">
+        <form id="Authorization">
+          <div class="field-wrap">
+            <label for="name">
+              Email<span class="req">*</span>
+            </label>
+            <input type="text" autocomplete="off" name="email">
+          </div>
+          <div class="field-wrap">
+            <label for="pass">
+              Пароль<span class="req">*</span>
+            </label>
+            <input type="password" autocomplete="off" name="password">
+          </div>
+
+          <!-- <p class="forgot"><a href="#">Forgot Password?</a></p> -->
+
+          <button class="button button-block" name="auth" value="auth_yes">Войти</button>
+        </form>
+      </div>
+
+      <div id="signup">
+        <form id="Registration">
+          <div class="top-row">
+            <div class="field-wrap">
+              <label for="name"> 
+                Имя<span class="req">*</span>
+              </label>
+              <input type="text" id="name" required autocomplete="off" name="name">
+            </div>
+            <div class="field-wrap">
+              <label for="last_name">
+                Фамилия<span class="req">*</span>
+              </label>
+              <input type="text" required autocomplete="off" name="last_name">
+            </div>
+          </div>
+          <div class="field-wrap">
+            <label for="email">
+              Email<span class="req">*</span>
+            </label>
+            <input type="email" required autocomplete="off" name="email">
+          </div>
+          <div class="field-wrap">
+            <label for="phone">
+              Телефон:<span class="req">*</span>
+            </label>
+            <input type="number" required autocomplete="off" name="phone">
+          </div>
+          <div class="field-wrap">
+            <label for="password">
+              Пароль:<span class="req">*</span>
+            </label>
+            <input type="password" required autocomplete="off" name="password" id="password">
+          </div>
+          <div class="field-wrap">
+            <label for="confirmpassword">
+              Повторите пароль<span class="req">*</span>
+            </label>
+            <input type="password" required autocomplete="off" name="confirmpassword" id="confirmpassword">
+          </div>
+          <button name="registr" class="button button-block" value="registration_yes">Регистрация</button>
+        </form>
+      </div>
+
+    </div><!-- tab-content -->
+    <!-- /form -->
+  </div>
+  {% include 'Footer.html' %}

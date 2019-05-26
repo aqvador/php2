@@ -1,0 +1,154 @@
+.product-item {
+    width: 260px;
+    margin: 5px auto;
+    padding: 10px 10px 5px 10px;
+    border: 1px solid #eee;
+    background: rgba(255, 255, 255, 0.644);
+    font-family: "Open Sans";
+    overflow: hidden;
+    transition: .4s linear;
+}
+
+.product-item:hover {
+    -webkit-box-shadow: 1px 0px 15px 0px rgba(57, 50, 50, 0.64);
+    -moz-box-shadow: 1px 0px 15px 0px rgba(57, 50, 50, 0.64);
+    box-shadow: 1px 0px 15px 0px rgba(57, 50, 50, 0.64);
+}
+
+
+.product-img {
+    transition: 0.7s ease-in-out;
+}
+
+.product-img:hover {
+    transform: scale(1.1);
+}
+
+.product-img img {
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+
+}
+
+.product-list {
+    margin-top: 15px;
+}
+
+.product-list h3 {
+    font-weight: 700;
+    color: #39404B;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.price {
+    color: #E34D38;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.stars-1,
+.stars-2,
+.stars-3,
+.stars-4,
+.stars-5 {
+    height: 14px;
+    line-height: 14px;
+    margin: 7px 0;
+}
+
+.stars-1::before,
+.stars-2::before,
+.stars-3::before,
+.stars-4::before,
+.stars-5::before {
+
+    color: #14729e;
+    font-size: 17px;
+    font-family: FontAwesome;
+}
+
+.stars-1::before {
+    content: "\f087";
+}
+
+.stars-2::before {
+    content: "\f087  \f087";
+}
+
+.stars-3::before {
+    content: "\f087  \f087  \f087";
+}
+
+.stars-4::before {
+    content: "\f087  \f087  \f087  \f087";
+}
+
+.stars-5::before {
+    content: "\f087  \f087  \f087  \f087  \f087";
+}
+
+.actions {
+    border-top: 1px solid #eee;
+    padding-top: 4px;
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.actions:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.add-to-cart,
+.add-to-links {
+    float: left;
+}
+
+.cart-button {
+    text-decoration: none;
+    color: #8C877C;
+    padding-right: 20px;
+    border-right: 1px solid #ddd;
+    transition: .4s linear;
+}
+
+.cart-button::before {
+    content: "\f07a";
+    font-family: FontAwesome;
+    margin-right: 10px;
+}
+
+.add-to-cart:hover .cart-button,
+.wishlist:hover,
+.compare:hover {
+    color: #ff0e0e;
+
+}
+
+.wishlist,
+.compare {
+    color: #8C877C;
+    padding-left: 20px;
+    transition: all .4s;
+}
+
+.wishlist:after,
+.compare:after {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size: 15px;
+}
+
+.wishlist:after {
+    content: "\f004";
+}
+
+.compare:after {
+    content: "\f079";
+}

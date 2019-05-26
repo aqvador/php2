@@ -1,0 +1,36 @@
+<!-- Модальное окно -->
+<div class="modal fade" id="ModalCenter" tabindex="-1" role="dialog" aria-labelledby="ModalOrder"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="ModalLongTitle">Оформление заказа</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="container">
+                <form class="needs-validation" id="ordersvasemodal" novalidate>
+                    <div class="col-md-12 mb-4">
+                        <label for="validationTooltip01">Имя</label>
+                        <input type="text" class="form-control" id="validationTooltip01" name="name"
+                            placeholder="Имя..." value="{{ data.session.user.name }}" required>
+                    </div>
+                    <div class="col-md-12 mb-4">
+                        <label for="validationTooltip02">Фамилия</label>
+                        <input type="text" class="form-control" name="last_name" placeholder="Фамилия..."
+                            value="{{ data.session.user.last_name }}" required>
+                    </div>
+                    <div class="col-md-12 mb-5">
+                        <label for="validationTooltipUsername">Телефон</label>
+                        <input type="number" class="form-control" name="phone" placeholder="Телефон..." id="validationTooltipUsername"
+                            value="{{ data.session.user.phone }}" required>
+                    </div>
+
+            </div>
+            <button class="btn btn-primary center mb-4" id="saveorders" type="submit">Отправить заказ</button>
+            </form>
+        </div>
+
+    </div>
+</div>

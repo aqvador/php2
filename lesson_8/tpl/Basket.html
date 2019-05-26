@@ -1,0 +1,86 @@
+{% include 'Head.html' %}
+<!-- begin: basket.tpl -->
+<div class="container">
+    {% if data.content_data.basket|length > 0 %}
+    <div class="ui-view-cart {% if data.content_data.basket|length > 0 %} d-block {% else %} d-none {% endif %}">
+        <!-- Tabke Responsive -->
+        <div class="table-responsive">
+            <!-- Table -->
+            <table class="table">
+                <tr>
+                    <!-- Image -->
+                    <th>Фото</th>
+                    <!-- Product Name -->
+                    <th>Наименование</th>
+                    <!-- Price -->
+                    <th>Цена</th>
+                    <!-- Quantity -->
+                    <th>Кол-во</th>
+                    <!-- Total Price -->
+                    <th>Сумма</th>
+                    <!-- Action -->
+                    <th>Действие</th>
+                    <!-- <th class="text-center">Action</th> -->
+                </tr>
+                {% for catkey, cat in data.content_data.basket %}
+                {% for good in cat %}
+                <tr id="{{ good.id }}">
+                    <!-- Image -->
+                    <td><img src="/img/catalog_img/{{ good.img }}" alt=""></td>
+                    <td>
+                        <!-- Product Name -->
+                        <h6><a class="nav-link" href="/catalog/detailed/{{ good.id }}"
+                                target="blank">{{ good.name }}</a></h6>
+                    </td>
+                    <!-- Price -->
+                    <td class="lblue">{{ good.price }}р.</td>
+                    <!-- Quantity -->
+                    <td>
+                        <div class='btn-spn btn-spn-md input-group'>
+                            <span class='input-group-btn'>
+                                <button class='btn btn-primary btn-spn-down' type='button'><i
+                                        class="fa fa-minus"></i></button>
+                            </span>
+                            <input value='{{ good.count }}' min='0' class='btn-spn-input form-control text-center'
+                                disabled>
+                            <span class='input-group-btn'>
+                                <button class='btn btn-primary btn-spn-up' type='button'><i
+                                        class="fa fa-plus"></i></button>
+                            </span>
+                        </div>
+                    </td>
+                    <!-- Total Price -->
+                    <td class="green summ">{{ good.price*good.count }}р.</td>
+                    <td><button type="button" class="btn btn-danger">Удалить</button></td>
+                </tr>
+                {% endfor %}
+                {% endfor %}
+                <tr>
+                    <!-- Total-->
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td><strong>Итого:</strong></td>
+                    <td class="totalprice">{{ data.content_data.basket.tp }}р.</td>
+                </tr>
+            </table>
+        </div>
+        <!-- Button trigger modal -->
+        <button type="button" class="center btn btn-primary" data-toggle="modal" data-target="#ModalCenter">
+            Оформить заказ
+        </button>
+    </div>
+    <!-- View Cart Ends -->
+
+
+    {% endif %}
+    <div class="countnull container table" {% if data.content_data.basket|length > 0 %} style="display:none"
+        {% endif %}>
+        <h2 class="text-center">Корзина пуста</h2>
+        <a class="nav-link" href="/catalog"><button type="button" class="btn btn-primary center">Добавим
+                товаров?</button></a>
+    </div>
+</div>
+{% include 'modal.html' %}
+<!-- end: basket.tpl -->
+{% include 'Footer.html' %}

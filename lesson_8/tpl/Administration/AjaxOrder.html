@@ -1,0 +1,60 @@
+<div class="pl-4">
+
+    {% if data.content_data.orders != null %}
+    <div class="container">
+        <div class="ui-view-cart">
+            <!-- Tabke Responsive -->
+            <div class="table-responsive">
+                <!-- Table -->
+                <table class="table">
+                    <tr>
+                        <th>Номер заказа</th>
+                        <th>Дата заказа</th>
+                        <th>Сумма заказа</th>
+                        <th>Имя клиента</th>
+                        <th>Контакт</th>
+                        <th>Статус</th>
+                        <th>Просмотреть детально</th>
+                    </tr>
+                    {% for order in data.content_data.orders %}
+                    <tr id="{{ order.id }}">
+                        <td>
+                            <h6># {{ order.id }}</h6>
+                        </td>
+                        <td>
+                            <h6>{{ order.date_order }}</h6>
+                        </td>
+                        <td>{{ order.total_price }}р.</td>
+                        <td>{{ order.name }}</td>
+                        <td><a href="tel:{{ order.phone }}">{{ order.phone }}</a></td>
+                        <td>
+                            <select class="custom-select select-status-orders" size="1" name="" id="">
+                                <option {{ order.status.name == 'Открыт' ? 'selected' }} value="open">Открыт</option>
+                                <option {{ order.status.name == 'В работе' ? 'selected' }} value="job">В работе</option>
+                                <option {{ order.status.name == 'Выполнен' ? 'selected' }} value="close">Выполнен
+                                </option>
+
+                                <option {{ order.status.name == 'Отменен' ? 'selected' }} value="cancel">Отменен
+                                </option>
+                                <!-- </select> <button type="button" class="{{ order.status.btn }}">{{ order.status.name }}</button> -->
+                        </td>
+                        <td><button type="button" class="btn btn-primary clickshowmodal">Просмотр</button></td>
+                    </tr>
+                    {% endfor %}
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- data-toggle="modal" data-target=".bd-example-modal-lg" -->
+
+
+
+    {% else %}
+    <div class="flex-center">
+        <h2>Нет заказов в этой категории.</h2>
+    </div>
+    {% endif %}
+
+</div>

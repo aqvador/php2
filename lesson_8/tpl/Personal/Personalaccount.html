@@ -1,0 +1,45 @@
+{% include 'Head.html' %}
+<div class="pl-4">
+
+    {% if data.content_data != null %}
+    <div class="container">
+        <div class="ui-view-cart">
+            <!-- Tabke Responsive -->
+            <div class="table-responsive">
+                <!-- Table -->
+                <table class="table">
+                    <tr>
+                        <th>Номер заказа</th>
+                        <th>Дата заказа</th>
+                        <th>Сумма заказа</th>
+                        <th>Статус</th>
+                        <th>Просмотреть детально</th>
+                    </tr>
+                    {% for order in data.content_data %}
+                    <tr id="{{ order.id }}">
+                        <td><h5># {{ order.id }}</h5></td>
+                        <td><h5>{{ order.date_order }}</h5></td>
+                        <td>{{ order.total_price }}р.</td>
+                        <td><button disabled type="button" class="{{ order.status.btn }}">{{ order.status.name }}</button></td>
+                        <td><button type="button" class="btn btn-primary clickshowmodal">Просмотр</button></td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+
+<!-- data-toggle="modal" data-target=".bd-example-modal-lg" -->
+
+
+
+    {% else %}
+
+    <h3>Добро пожаловать {{ data.session.user.name }} </h3>
+    <p>Это Ваш личный кабинет</p>
+    <p>тут пока <code>пусто</code> ;( </p>
+    <a href="/catalog"><button type="button" class="btn btn-primary">Сделать первый заказ</button></a>
+    {% endif %}
+</div>
+{% include 'Personal/PersonalModal.html' %}
+{% include 'Footer.html' %}

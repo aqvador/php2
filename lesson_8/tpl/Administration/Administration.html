@@ -1,0 +1,20 @@
+{% include 'Head.html' %}
+<div class="container">
+    <div class="container flex-center table">
+        <div class="btn-group btn-group-toggle center" data-toggle="buttons">
+            <div class="btn-group" data-toggle="buttons">
+                <a class="btn btn-lg btn-primary active" href="#orders" style="box-shadow:none;"><input type="radio"
+                        name="options" id="option3" autocomplete="off"> Заказы</a>
+                <a class="btn btn-lg btn-primary" href="#users" style="box-shadow:none;"><input type="radio"
+                        name="options" id="option3" autocomplete="off"> Пользователи</a>
+                <a class="btn btn-lg btn-primary" href="#goods" style="box-shadow:none;"><input type="radio"
+                        name="options" id="option3" autocomplete="off"> Товары</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container center absolute alert-message">
+</div>
+{% include 'Administration/GetOrders.html' %}
+{% include 'Personal/PersonalModal.html' %}
+{% include 'Footer.html' %}

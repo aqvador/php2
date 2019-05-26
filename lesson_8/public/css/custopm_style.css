@@ -1,0 +1,128 @@
+body {
+  background: url(/img/bg/background70.png);
+  font-family: 'Titillium Web', sans-serif;
+  padding-top: 50px;
+  max-width: 100%;
+}
+
+
+
+.content-heading {
+  font-size: 24px;
+  line-height: 1.1;
+  color: #757474;
+  margin: -15px;
+  margin-bottom: 15px;
+  padding: 8px 15px;
+  font-weight: normal;
+  background-color: #fafbfc;
+  border-bottom: 1px solid #cfdbe2;
+  margin: 0px;
+  align-items: center;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.display_none {
+  display: none;
+}
+
+* {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.content {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.footer {
+  height: 40px;
+  background: cadetblue;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input[type="number"]:hover,
+input[type="number"]:focus {
+  -moz-appearance: number-input;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#basket em {
+  color: #bb4444;
+  font-size: 20px;
+}
+
+/*
+* Все тэги с обязательными атрибутами будут подсвечены
+* Влияет на валидацию
+*/
+img:not([alt]),
+label:not([for]),
+input[type=submit]:not([value]) {
+  outline: 2px solid red;
+}
+
+/*
+* Потерявшиеся ul li dl  будут подсвечены
+* Влияет на валидацию и на последующую эксплуатацию
+*/
+ul>*:not(li),
+ol>*:not(li),
+dl>*:not(dt):not(dd) {
+  outline: 2px solid red;
+}
+
+.navbar-brand img{
+  width: 70px;
+}
+
+.catalogurl .active  a {
+  color: #a37b0b;
+  border-bottom: 1px solid #a37b0b;
+}
+.catalogurl  a {
+  border-bottom: 1px solid transparent;
+}
+
+.table {
+  margin: 20px 0px;
+}
+.flex-center{
+  display: flex;
+  justify-content: center;
+}

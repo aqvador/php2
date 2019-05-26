@@ -1,0 +1,33 @@
+<div class="modal-header">
+    <h5 class="modal-title" id="exampleModalLongTitle">Заказ#</h5>
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<div class="ui-view-cart">
+    <div class="table-responsive">
+
+        <table class="table">
+            <tr> 
+                <th>Фото</th>
+                <th>Название</th>
+                <th>стоимость</th>
+                <th>Кол-во</th>
+                <th>На страницу товара</th>
+            </tr>
+            {% for order in data.content_data.modal %}
+
+            <tr>
+                    <td><a target="blank" href="/catalog/detailed/{{ order.id }}"><img src="/img/catalog_img/{{ order.img }}" alt=""></a></td>
+                <td><h6>{{ order.name }}</h6></td>
+                <td class="lblue">{{ order.price }}р.</td>
+                <td>{{ order.pcs }}</td>
+                <td><a class="btn btn-primary" target="blank" href="/catalog/detailed/{{ order.id }}">В товар</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</div>
+<div class="modal-footer">
+    <button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+</div>
