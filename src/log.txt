@@ -1,0 +1,6928 @@
+
+------------------------
+2019.05.26 12:57:51
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 12:58:49
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:49
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:58:52
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:52
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:58:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:58:59
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:58:59
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:07
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:07
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:16
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:16
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:19
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 12:59:19
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 12:59:50
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 27
+
+------------------------
+
+------------------------
+2019.05.26 12:59:51
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getgoods()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 27
+
+------------------------
+
+------------------------
+2019.05.26 13:57:44
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 14:00:28
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:00:30
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:07:51
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:07:52
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:07:54
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:23
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:24
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getgoods()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:31
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method Administration::Getusers()
+file /var/www/html/geekbrains.club/php2/lesson_8/controller/AdministrationController.class.php
+line 28
+
+------------------------
+
+------------------------
+2019.05.26 14:09:33
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:11:38
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:12:02
+Titte: Фатальная Ошибка
+Message: type 8
+message Undefined property: AdministrationController::$param
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 51
+
+------------------------
+
+------------------------
+2019.05.26 14:13:36
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:13:38
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:14:38
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 14:14:45
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:14:46
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:14:59
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:09
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:09
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:25
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:26
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:35
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:35
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:42
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:42
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:45
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:45
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:15:54
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:55
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:15:57
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:15:57
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:16:03
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:04
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:16:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:16:32
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:33
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:36
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:16:59
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:16:59
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:17:02
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:17:02
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:17:08
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 53
+
+------------------------
+
+------------------------
+2019.05.26 14:17:09
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:17:09
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:17:24
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:17:24
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:21
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 14:24:36
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:36
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:39
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:39
+Titte: DEBUG
+Message: Array
+(
+    [id] => 114
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:41
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:41
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:44
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:44
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:48
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:48
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:24:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:24:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:25:04
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:25:04
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:26:12
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:26:12
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:42:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:42:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:42:16
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:42:16
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:45:41
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:45:53
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:47:58
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:47:58
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:48:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:48:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:48:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 14:48:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 14:56:44
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:56:47
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:56:49
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:56:56
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:00
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:06
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:08
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:10
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:12
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:13
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:15
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:20
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:23
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:28
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:32
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:35
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:57:39
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:06
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:09
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:13
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:40
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:43
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:58:49
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:07
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:07
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:12
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:28
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 14:59:33
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:38
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:40
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:43
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:03:46
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:04:03
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:04:06
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:04:12
+Titte: Попытка проникнуть по Ajax
+Message: ajax/Administration/OrderEditStatus
+------------------------
+
+------------------------
+2019.05.26 15:07:30
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:07:30
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:07:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:07:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:08:37
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:08:37
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:09:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:09:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:09:57
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:09:57
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:10:00
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:10:00
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:11:42
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:11:42
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:11:50
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:11:50
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:11:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:11:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:14:38
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:14:38
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:15:23
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:15:23
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:28:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:28:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:36:39
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:36:39
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:35
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:35
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:41
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:41
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:46
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:46
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:49
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:49
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:50:52
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:50:52
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:55:55
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:55:55
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 15:57:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 15:57:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:01:53
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:01:53
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:02:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:02:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:04:45
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:06:52
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:53
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:54
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:56
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 1
+            [status] => 1
+            [name] => Кросовки
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:57
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:57
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:06:58
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:09:37
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:10:14
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:10:14
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:10:41
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:10:49
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:10:49
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:22
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:11:29
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:29
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:33
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:33
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:36
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:36
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:11:40
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:11:40
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:12:13
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:12:30
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:12:40
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:12:40
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:13:02
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:13:02
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:13:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:13:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:14:00
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:14:00
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:14:12
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:14:12
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:01
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:01
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:04
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:04
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:13
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:13
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:17:55
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:17:55
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:18:21
+Titte: DEBUG
+Message: in
+------------------------
+
+------------------------
+2019.05.26 16:20:33
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:20:33
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:20:39
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:20:39
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:23:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 16:23:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 16:39:19
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to a member function prepare() on null
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/db.class.php
+line 56
+
+------------------------
+
+------------------------
+2019.05.26 16:45:59
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to a member function prepare() on null
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/db.class.php
+line 56
+
+------------------------
+
+------------------------
+2019.05.26 16:46:03
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to a member function prepare() on null
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/db.class.php
+line 56
+
+------------------------
+
+------------------------
+2019.05.26 16:58:43
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 16:58:45
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 16:58:46
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 16:58:48
+Titte: Фатальная Ошибка
+Message: type 1
+message Call to undefined method AdministrationController::Order()
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 43
+
+------------------------
+
+------------------------
+2019.05.26 17:01:08
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 54
+
+------------------------
+
+------------------------
+2019.05.26 17:01:10
+Titte: Фатальная Ошибка
+Message: type 8
+message Array to string conversion
+file /var/www/html/geekbrains.club/php2/lesson_8/engine/App.class.php
+line 54
+
+------------------------
+
+------------------------
+2019.05.26 17:13:59
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:13:59
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:06
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:06
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => cancel
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:13
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:13
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:14
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:14
+Titte: DEBUG
+Message: Array
+(
+    [id] => 143
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:15
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:15
+Titte: DEBUG
+Message: Array
+(
+    [id] => 139
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 138
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:20
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:20
+Titte: DEBUG
+Message: Array
+(
+    [id] => 136
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:21
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:21
+Titte: DEBUG
+Message: Array
+(
+    [id] => 134
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:22
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:22
+Titte: DEBUG
+Message: Array
+(
+    [id] => 133
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:24
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:24
+Titte: DEBUG
+Message: Array
+(
+    [id] => 129
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:27
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:27
+Titte: DEBUG
+Message: Array
+(
+    [id] => 129
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:28
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:28
+Titte: DEBUG
+Message: Array
+(
+    [id] => 128
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:29
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:29
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:31
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:31
+Titte: DEBUG
+Message: Array
+(
+    [id] => 125
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:32
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:32
+Titte: DEBUG
+Message: Array
+(
+    [id] => 114
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:34
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:34
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:35
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:35
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:36
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:36
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:44
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:44
+Titte: DEBUG
+Message: Array
+(
+    [id] => 101
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:50
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:50
+Titte: DEBUG
+Message: Array
+(
+    [id] => 102
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:14:57
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:14:57
+Titte: DEBUG
+Message: Array
+(
+    [id] => 103
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:03
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:03
+Titte: DEBUG
+Message: Array
+(
+    [id] => 114
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:07
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:07
+Titte: DEBUG
+Message: Array
+(
+    [id] => 125
+    [status] => open
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:11
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:11
+Titte: DEBUG
+Message: Array
+(
+    [id] => 125
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 126
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:23
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:23
+Titte: DEBUG
+Message: Array
+(
+    [id] => 128
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:29
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:29
+Titte: DEBUG
+Message: Array
+(
+    [id] => 129
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:52
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:52
+Titte: DEBUG
+Message: Array
+(
+    [id] => 136
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:15:58
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:15:58
+Titte: DEBUG
+Message: Array
+(
+    [id] => 138
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:04
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:04
+Titte: DEBUG
+Message: Array
+(
+    [id] => 139
+    [status] => job
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:10
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:10
+Titte: DEBUG
+Message: Array
+(
+    [id] => 143
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:17
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:17
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5626
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:24
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:24
+Titte: DEBUG
+Message: Array
+(
+    [id] => 136
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2019.05.26 17:16:25
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+
+------------------------
+2019.05.26 17:16:25
+Titte: DEBUG
+Message: Array
+(
+    [id] => 139
+    [status] => close
+)
+
+------------------------
+
+------------------------
+2022.06.24 12:24:30
+Titte: PDOException: could not find driver in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:24:32
+Titte: PDOException: could not find driver in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:25:25
+Titte: PDOException: could not find driver in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:31:46
+Titte: PDOException: could not find driver in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:54:11
+Titte: PDOException: SQLSTATE[HY000] [2002] No such file or directory in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:54:11
+Titte: PDOException: SQLSTATE[HY000] [2002] No such file or directory in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:54:12
+Titte: PDOException: SQLSTATE[HY000] [2002] No such file or directory in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:54:13
+Titte: PDOException: SQLSTATE[HY000] [2002] No such file or directory in /app/engine/db.class.php:44
+Stack trace:
+#0 /app/engine/db.class.php(44): PDO->__construct('mysql:host=loca...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(20): db->Connect('root', 'password', 'site')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 12:55:49
+Titte: PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'site.categories' doesn't exist in /app/engine/db.class.php:57
+Stack trace:
+#0 /app/engine/db.class.php(57): PDOStatement->execute(Array)
+#1 /app/engine/db.class.php(65): db->Query('SELECT * FROM c...', Array)
+#2 /app/model/Submenu.class.php(20): db->Select('SELECT * FROM c...')
+#3 /app/engine/App.class.php(37): Submenu::index()
+#4 /app/engine/App.class.php(22): App::web()
+#5 /app/app.php(6): App::Init()
+#6 /app/public/index.php(2): require_once('/app/app.php')
+#7 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 13:07:14
+Titte: PDOException: SQLSTATE[HY000]: General error: trying to execute an empty query in /app/engine/db.class.php:88
+Stack trace:
+#0 /app/engine/db.class.php(88): PDO->exec('')
+#1 /app/engine/App.class.php(23): db->exec(false)
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+
+------------------------
+2022.06.24 13:07:14
+Titte: Фатальная Ошибка
+Message: type 2
+message file_get_contents(/app/data/lesson_8.mysql): failed to open stream: No such file or directory
+file /app/engine/App.class.php
+line 23
+
+------------------------
+
+------------------------
+2022.06.24 13:07:35
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:07:48
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:07:55
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:08:16
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:08:23
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:08:34
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:08:43
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:08:48
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:08:57
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+
+------------------------
+2022.06.24 13:11:51
+Titte: App false
+Message: An exception has been thrown during the rendering of a template ("NULL") in "Footer.html" at line 28.
+------------------------
+
+------------------------
+2022.06.24 13:13:22
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1142
+
+------------------------
+
+------------------------
+2022.06.24 13:13:32
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1142
+
+------------------------
+
+------------------------
+2022.06.24 13:43:03
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 25
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 2
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 13:43:12
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+(
+    [0] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+                    [1] => error
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 13:47:13
+Titte: error
+Message: Array
+(
+    [0] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 26
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 2
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 13:47:13
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 25
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 2
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 13:47:40
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 25
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+(
+    [type] => 2
+    [message] => count(): Parameter must be an array or an object that implements Countable
+    [file] => /app/vendor/Twig/Extension/Core.php
+    [line] => 1140
+)
+
+                    [1] => error
+                )
+
+        )
+
+    [1] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 13:51:37
+Titte: error
+Message: Array
+(
+    [type] => 2
+    [message] => count(): Parameter must be an array or an object that implements Countable
+    [file] => /app/vendor/Twig/Extension/Core.php
+    [line] => 1140
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 2
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:08:57
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 2
+                    [fatal] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 2
+                            [message] => count(): Parameter must be an array or an object that implements Countable
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 2
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:09:08
+Titte: Фатальная Ошибка
+Message: type 2
+message count(): Parameter must be an array or an object that implements Countable
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 1
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:10:41
+Titte: Фатальная Ошибка
+Message: type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+                            [file] => /app/vendor/Twig/Extension/Core.php
+                            [line] => 1140
+                        )
+
+                    [1] => 1
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:10:52
+Titte: Фатальная Ошибка
+Message: type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes)
+file /app/vendor/Twig/Extension/Core.php
+line 1140
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+file /app/engine/Logger.class.php
+line 22
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                    [1] => 1
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:11:30
+Titte: Фатальная Ошибка
+Message: type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+file /app/engine/Logger.class.php
+line 22
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+file /app/engine/Logger.class.php
+line 22
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                    [1] => 1
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:11:56
+Titte: Фатальная Ошибка
+Message: type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+file /app/engine/Logger.class.php
+line 22
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 30
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+file /app/engine/Logger.class.php
+line 22
+
+                    [1] => Фатальная Ошибка
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/FatalError.class.php
+            [line] => 22
+            [function] => read
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/app.php
+            [line] => 23
+            [function] => __construct
+            [class] => FatalError
+            [object] => FatalError Object
+                (
+                    [code:protected] => 1
+                    [fatal] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => 1
+                            [message] => Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+                            [file] => /app/engine/Logger.class.php
+                            [line] => 22
+                        )
+
+                    [1] => 1
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => ErrorShutdownHandler
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+------------------------
+2022.06.24 14:12:06
+Titte: Фатальная Ошибка
+Message: type 1
+message Allowed memory size of 134217728 bytes exhausted (tried to allocate 60821504 bytes)
+file /app/engine/Logger.class.php
+line 22
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 11
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+(
+    [0] => Array
+        (
+            [function] => autoload
+            [class] => Twig_Autoloader
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Twig_Extension_Core
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/vendor/Twig/Environment.php
+            [line] => 98
+            [function] => spl_autoload_call
+            [args] => Array
+                (
+                    [0] => Twig_Extension_Core
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 50
+            [function] => __construct
+            [class] => Twig_Environment
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Twig_Loader_Filesystem Object
+                        (
+                            [paths:protected] => Array
+                                (
+                                    [__main__] => Array
+                                        (
+                                            [0] => /app/config/../tpl
+                                        )
+
+                                )
+
+                            [cache:protected] => Array
+                                (
+                                )
+
+                            [errorCache:protected] => Array
+                                (
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [debug] => 1
+                            [charset] => UTF-8
+                            [base_template_class] => Twig_Template
+                            [strict_variables] => 
+                            [autoescape] => html
+                            [cache] => 
+                            [auto_reload] => 
+                            [optimizations] => -1
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+                    [1] => App false
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 14:13:07
+Titte: App false
+Message: Array
+(
+    [0] => Array
+        (
+            [function] => autoload
+            [class] => Twig_Autoloader
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Twig_Extension_Core
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/vendor/Twig/Environment.php
+            [line] => 98
+            [function] => spl_autoload_call
+            [args] => Array
+                (
+                    [0] => Twig_Extension_Core
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 50
+            [function] => __construct
+            [class] => Twig_Environment
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Twig_Loader_Filesystem Object
+                        (
+                            [paths:protected] => Array
+                                (
+                                    [__main__] => Array
+                                        (
+                                            [0] => /app/config/../tpl
+                                        )
+
+                                )
+
+                            [cache:protected] => Array
+                                (
+                                )
+
+                            [errorCache:protected] => Array
+                                (
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [debug] => 1
+                            [charset] => UTF-8
+                            [base_template_class] => Twig_Template
+                            [strict_variables] => 
+                            [autoescape] => html
+                            [cache] => 
+                            [auto_reload] => 
+                            [optimizations] => -1
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 9
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => не удалось подключится к БД
+                    [1] => PDOException Object
+                        (
+                            [message:protected] => SQLSTATE[HY000] [1049] Unknown database 'site'
+                            [string:Exception:private] => exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+                            [code:protected] => 1049
+                            [file:protected] => /app/engine/db.class.php
+                            [line:protected] => 61
+                            [trace:Exception:private] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [file] => /app/engine/db.class.php
+                                            [line] => 61
+                                            [function] => __construct
+                                            [class] => PDO
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => mysql:host=manager_mysql;port= 3306;dbname=site;charset=UTF8;
+                                                    [1] => root
+                                                    [2] => password
+                                                    [3] => Array
+                                                        (
+                                                            [19] => 2
+                                                            [3] => 2
+                                                            [20] => 20
+                                                            [21] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [file] => /app/engine/App.class.php
+                                            [line] => 22
+                                            [function] => Connect
+                                            [class] => db
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => root
+                                                    [1] => password
+                                                    [2] => site
+                                                    [3] => manager_mysql
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [file] => /app/app.php
+                                            [line] => 6
+                                            [function] => Init
+                                            [class] => App
+                                            [type] => ::
+                                            [args] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [file] => /app/public/index.php
+                                            [line] => 2
+                                            [args] => Array
+                                                (
+                                                    [0] => /app/app.php
+                                                )
+
+                                            [function] => require_once
+                                        )
+
+                                )
+
+                            [previous:Exception:private] => 
+                            [errorInfo] => 
+                        )
+
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:18:19
+Titte: exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 9
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => не удалось подключится к БД
+                    [1] => PDOException Object
+                        (
+                            [message:protected] => SQLSTATE[HY000] [1049] Unknown database 'site'
+                            [string:Exception:private] => exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+                            [code:protected] => 1049
+                            [file:protected] => /app/engine/db.class.php
+                            [line:protected] => 61
+                            [trace:Exception:private] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [file] => /app/engine/db.class.php
+                                            [line] => 61
+                                            [function] => __construct
+                                            [class] => PDO
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => mysql:host=manager_mysql;port= 3306;dbname=site;charset=UTF8;
+                                                    [1] => root
+                                                    [2] => password
+                                                    [3] => Array
+                                                        (
+                                                            [19] => 2
+                                                            [3] => 2
+                                                            [20] => 20
+                                                            [21] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [file] => /app/engine/App.class.php
+                                            [line] => 22
+                                            [function] => Connect
+                                            [class] => db
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => root
+                                                    [1] => password
+                                                    [2] => site
+                                                    [3] => manager_mysql
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [file] => /app/app.php
+                                            [line] => 6
+                                            [function] => Init
+                                            [class] => App
+                                            [type] => ::
+                                            [args] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [file] => /app/public/index.php
+                                            [line] => 2
+                                            [args] => Array
+                                                (
+                                                    [0] => /app/app.php
+                                                )
+
+                                            [function] => require_once
+                                        )
+
+                                )
+
+                            [previous:Exception:private] => 
+                            [errorInfo] => 
+                        )
+
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:18:33
+Titte: exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 9
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => не удалось подключится к БД
+                    [1] => PDOException Object
+                        (
+                            [message:protected] => SQLSTATE[HY000] [1049] Unknown database 'site'
+                            [string:Exception:private] => exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+                            [code:protected] => 1049
+                            [file:protected] => /app/engine/db.class.php
+                            [line:protected] => 61
+                            [trace:Exception:private] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [file] => /app/engine/db.class.php
+                                            [line] => 61
+                                            [function] => __construct
+                                            [class] => PDO
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => mysql:host=manager_mysql;port= 3306;dbname=site;charset=UTF8;
+                                                    [1] => root
+                                                    [2] => password
+                                                    [3] => Array
+                                                        (
+                                                            [19] => 2
+                                                            [3] => 2
+                                                            [20] => 20
+                                                            [21] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [file] => /app/engine/App.class.php
+                                            [line] => 22
+                                            [function] => Connect
+                                            [class] => db
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => root
+                                                    [1] => password
+                                                    [2] => site
+                                                    [3] => manager_mysql
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [file] => /app/app.php
+                                            [line] => 6
+                                            [function] => Init
+                                            [class] => App
+                                            [type] => ::
+                                            [args] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [file] => /app/public/index.php
+                                            [line] => 2
+                                            [args] => Array
+                                                (
+                                                    [0] => /app/app.php
+                                                )
+
+                                            [function] => require_once
+                                        )
+
+                                )
+
+                            [previous:Exception:private] => 
+                            [errorInfo] => 
+                        )
+
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:18:33
+Titte: exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 9
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => не удалось подключится к БД
+                    [1] => PDOException Object
+                        (
+                            [message:protected] => SQLSTATE[HY000] [1049] Unknown database 'site'
+                            [string:Exception:private] => exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+                            [code:protected] => 1049
+                            [file:protected] => /app/engine/db.class.php
+                            [line:protected] => 61
+                            [trace:Exception:private] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [file] => /app/engine/db.class.php
+                                            [line] => 61
+                                            [function] => __construct
+                                            [class] => PDO
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => mysql:host=manager_mysql;port= 3306;dbname=site;charset=UTF8;
+                                                    [1] => root
+                                                    [2] => password
+                                                    [3] => Array
+                                                        (
+                                                            [19] => 2
+                                                            [3] => 2
+                                                            [20] => 20
+                                                            [21] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [file] => /app/engine/App.class.php
+                                            [line] => 22
+                                            [function] => Connect
+                                            [class] => db
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => root
+                                                    [1] => password
+                                                    [2] => site
+                                                    [3] => manager_mysql
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [file] => /app/app.php
+                                            [line] => 6
+                                            [function] => Init
+                                            [class] => App
+                                            [type] => ::
+                                            [args] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [file] => /app/public/index.php
+                                            [line] => 2
+                                            [args] => Array
+                                                (
+                                                    [0] => /app/app.php
+                                                )
+
+                                            [function] => require_once
+                                        )
+
+                                )
+
+                            [previous:Exception:private] => 
+                            [errorInfo] => 
+                        )
+
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:18:34
+Titte: exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'site'' in /app/engine/db.class.php:61
+Stack trace:
+#0 /app/engine/db.class.php(61): PDO->__construct('mysql:host=mana...', 'root', 'password', Array)
+#1 /app/engine/App.class.php(22): db->Connect('root', 'password', 'site', 'manager_mysql')
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/app.php
+            [line] => 9
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => не удалось подключится к БД
+                    [1] => PDOException Object
+                        (
+                            [message:protected] => SQLSTATE[HY000]: General error: trying to execute an empty query
+                            [string:Exception:private] => exception 'PDOException' with message 'SQLSTATE[HY000]: General error: trying to execute an empty query' in /app/engine/db.class.php:88
+Stack trace:
+#0 /app/engine/db.class.php(88): PDO->exec('')
+#1 /app/engine/App.class.php(23): db->exec(false)
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+                            [code:protected] => HY000
+                            [file:protected] => /app/engine/db.class.php
+                            [line:protected] => 88
+                            [trace:Exception:private] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [file] => /app/engine/db.class.php
+                                            [line] => 88
+                                            [function] => exec
+                                            [class] => PDO
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => 
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [file] => /app/engine/App.class.php
+                                            [line] => 23
+                                            [function] => exec
+                                            [class] => db
+                                            [type] => ->
+                                            [args] => Array
+                                                (
+                                                    [0] => 
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [file] => /app/app.php
+                                            [line] => 6
+                                            [function] => Init
+                                            [class] => App
+                                            [type] => ::
+                                            [args] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [file] => /app/public/index.php
+                                            [line] => 2
+                                            [args] => Array
+                                                (
+                                                    [0] => /app/app.php
+                                                )
+
+                                            [function] => require_once
+                                        )
+
+                                )
+
+                            [previous:Exception:private] => 
+                            [errorInfo] => Array
+                                (
+                                    [0] => HY000
+                                    [1] => 0
+                                )
+
+                        )
+
+                    [2] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:19:10
+Titte: exception 'PDOException' with message 'SQLSTATE[HY000]: General error: trying to execute an empty query' in /app/engine/db.class.php:88
+Stack trace:
+#0 /app/engine/db.class.php(88): PDO->exec('')
+#1 /app/engine/App.class.php(23): db->exec(false)
+#2 /app/app.php(6): App::Init()
+#3 /app/public/index.php(2): require_once('/app/app.php')
+#4 {main}
+Message: не удалось подключится к БД
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 2
+                                    [status] => 1
+                                    [name] => Тапки
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:23:54
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 3
+                                    [status] => 1
+                                    [name] => Кеды
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 3
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 3
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:23:55
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 4
+                                    [status] => 1
+                                    [name] => Сапоги
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:23:56
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 1
+                                    [status] => 1
+                                    [name] => Кросовки
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 1
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 1
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:23:58
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 1
+            [status] => 1
+            [name] => Кросовки
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 2
+                                    [status] => 1
+                                    [name] => Тапки
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:23:59
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/User.class.php
+            [line] => 83
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => in
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/model/User.class.php
+            [line] => 28
+            [function] => HistiryLogin
+            [class] => User
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => in
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/controller/AuthorizationController.class.php
+            [line] => 33
+            [function] => Authorization
+            [class] => User
+            [object] => User Object
+                (
+                    [answer:User:private] => Array
+                        (
+                            [status] => 1
+                            [message] => Перенаправляю на главную страницу.
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 46
+            [function] => auth
+            [class] => AuthorizationController
+            [object] => AuthorizationController Object
+                (
+                    [h1] => Страница авторизации и регистрации
+                    [user:AuthorizationController:private] => 
+                    [pass:AuthorizationController:private] => 
+                    [view] => 
+                    [tpl] => 
+                    [title] => Страница авторизации
+                    [input] => 
+                    [ParamsConnect] => Authorization
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [6] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:25:24
+Titte: DEBUG
+Message: in
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Administration/Administration.class.php
+            [line] => 38
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => UPDATE `orders` SET `status` = ? WHERE `id` = ?
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/AdministrationController.class.php
+            [line] => 34
+            [function] => OrderEditStatus
+            [class] => Administration
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 46
+            [function] => OrderEditStatus
+            [class] => AdministrationController
+            [object] => AdministrationController Object
+                (
+                    [h1] => Админочка
+                    [view] => Alert
+                    [tpl] => BootstrapAlert
+                    [title] => Администратор сайта
+                    [input] => 
+                    [ParamsConnect] => Administration
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:26:56
+Titte: DEBUG
+Message: UPDATE `orders` SET `status` = ? WHERE `id` = ?
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Administration/Administration.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 5627
+                            [status] => close
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/AdministrationController.class.php
+            [line] => 34
+            [function] => OrderEditStatus
+            [class] => Administration
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 46
+            [function] => OrderEditStatus
+            [class] => AdministrationController
+            [object] => AdministrationController Object
+                (
+                    [h1] => Админочка
+                    [view] => Alert
+                    [tpl] => BootstrapAlert
+                    [title] => Администратор сайта
+                    [input] => 
+                    [ParamsConnect] => Administration
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:26:56
+Titte: DEBUG
+Message: Array
+(
+    [id] => 5627
+    [status] => close
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 4
+                                    [status] => 1
+                                    [name] => Сапоги
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:29:56
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 4
+                                    [status] => 1
+                                    [name] => Сапоги
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:30:57
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 2
+                                    [status] => 1
+                                    [name] => Тапки
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:37:04
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 3
+                                    [status] => 1
+                                    [name] => Кеды
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 3
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 3
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:44:51
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 4
+                                    [status] => 1
+                                    [name] => Сапоги
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 4
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:44:52
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 4
+            [status] => 1
+            [name] => Сапоги
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 3
+                                    [status] => 1
+                                    [name] => Кеды
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 3
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 3
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:45:03
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 3
+            [status] => 1
+            [name] => Кеды
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 2
+                                    [status] => 1
+                                    [name] => Тапки
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 2
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:45:05
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 2
+            [status] => 1
+            [name] => Тапки
+        )
+
+)
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [file] => /app/model/Catalog/Catalog.class.php
+            [line] => 39
+            [function] => Write
+            [class] => Logger
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id_category] => 1
+                                    [status] => 1
+                                    [name] => Кросовки
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /app/controller/CatalogController.class.php
+            [line] => 43
+            [function] => Category
+            [class] => Catalog
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 1
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 38
+            [function] => Category
+            [class] => CatalogController
+            [object] => CatalogController Object
+                (
+                    [view] => catalog
+                    [h1] => Каталог товаров
+                    [tpl] => Catalog
+                    [title] => Каталог товаров | 
+                    [input] => 
+                    [ParamsConnect] => Catalog
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 1
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /app/engine/App.class.php
+            [line] => 24
+            [function] => web
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /app/app.php
+            [line] => 6
+            [function] => Init
+            [class] => App
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /app/public/index.php
+            [line] => 2
+            [args] => Array
+                (
+                    [0] => /app/app.php
+                )
+
+            [function] => require_once
+        )
+
+)
+
+------------------------
+2022.06.24 15:45:07
+Titte: DEBUG
+Message: Array
+(
+    [0] => Array
+        (
+            [id_category] => 1
+            [status] => 1
+            [name] => Кросовки
+        )
+
+)
+
+------------------------
